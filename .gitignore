@@ -1,0 +1,6 @@
+/checkpoints
+/pic
+/Task4_TransferLearningDataset
+/TransferDataset
+*.csv
+.idea
